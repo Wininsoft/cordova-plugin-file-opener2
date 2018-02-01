@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\android",
+    "\\src\\android\\io",
+    "\\src\\android\\io\\github",
+    "\\src\\android\\io\\github\\pwlin",
+    "\\src\\android\\io\\github\\pwlin\\cordova",
+    "\\src\\android\\io\\github\\pwlin\\cordova\\plugins",
+    "\\src\\android\\io\\github\\pwlin\\cordova\\plugins\\fileopener2",
+    "\\www"
+  ],
+  "PreviewInSolutionExplorer": false
+}
